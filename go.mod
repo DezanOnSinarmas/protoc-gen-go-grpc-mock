@@ -18,5 +18,3 @@ require (
 	golang.org/x/text v0.13.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230913181813-007df8e322eb // indirect
 )
-
-replace github.com/sorcererxw/protoc-gen-go-grpc-mock v1.2.0 => github.com/wahyudotdev/protoc-gen-go-grpc-mock v0.0.0-20230915010545-1987e7349aa5
